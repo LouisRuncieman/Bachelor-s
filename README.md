@@ -1,2 +1,2 @@
-# Bachelor-s
+# Bachelors
 BSc in Mathematics
